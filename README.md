@@ -12,8 +12,8 @@
   - https://itrack.ru/portfolio/vnedrenie-crm/?PAGEN_1=2
   - https://itrack.ru/portfolio/vnedrenie-crm/mobifitness/
   - https://itrack.ru/portfolio/website/miratorg/
-	
-	Необходимо при загрузке страницы заполнить массив с параметрами страницы:
+  
+  		Необходимо при загрузке страницы заполнить массив с параметрами страницы:
    - Тип страницы (type) - index, filter, project, nextPage;
    - Направление работы (direct) - website, crm;
    - Параметры фильтра (filterParam) - строка между filter и apply;
